@@ -1,0 +1,20 @@
+Blockchain Essentials Day 1
+Assignment 1: -
+1.	What is your understanding of Blockchain?
+Ans: - Block chain is the mixture of distributed databases and cryptography. It’s a technology which came into existence after the 2008 crisis. The blocks save the data in them, and for each data, a hash is created. It contains immutable, tamper-resistant, and permanent records once a record has been added to the chain it is very difficult to change.
+2.	What is the core problem block chain trying to solve?
+  Ans:- Blockchain is trying to solve problems with the Internet like: -
+    Authenticity and Security
+      Need of a powerful third party for trust and transparency 
+3.	What are the few features which block chain will give you?
+Ans:  a) No hacking and Verifiable.
+b) Decentralized.
+c) Tamper proof.
+d) Immutable.
+e) Transparent.
+f) Data transparency
+4.	What all things does a Block contain?
+Ans: - Previous Hash Key, Mining Key, Block number, Transaction Records.
+5.	How is the Verifiability of Blockchain is been attained? 
+Ans: - It works on the system of the fingerprint. Each block has its own special unique signature, which is stored in the next block too. If the copy of that block exists somewhere, its signature is compared, only if it matches. Every person involved in the blockchain/ group will check the hash provided. If of all the participants of blockchain report the hash to be the same, then we can say the data present with every individual is TRUE or a VALID data.
+
